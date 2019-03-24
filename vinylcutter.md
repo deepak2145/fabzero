@@ -1,5 +1,5 @@
 # Vinyle Cutter
-![deepak_repo](img/vinylcutter.jpeg)
+[deepak_repo](img/vinylecutter.jpeg)
 
 # Vinyl Cutter Safety
 
