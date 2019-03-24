@@ -28,9 +28,10 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
  ## Day 1                   
  On Day 1 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
- ![deepak_repo](img/Fablab At Bhubaneswar 1.jpeg)
 
- ![deepak_repo](img/Fablab At Bhubaneswar.jpeg)
+ ![deepak_repo](img/fablabatbhubaneswar1.jpeg)
+
+ ![deepak_repo](img/fablabatbhubaneswar.jpeg)
 
 
 
