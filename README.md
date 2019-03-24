@@ -7,4 +7,4 @@ The First Fab lab in India Vigyan located in village Pabal approx 70 kms from Pu
 
 # About Me
 I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telecommunication from Government Engineering College,Rewa Madhya Pradesh.
-![deepak_repo](./aboutme.md)
+![....Continued](./aboutme.md)
