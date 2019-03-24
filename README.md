@@ -13,4 +13,4 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 # Inauguration of Fablab In STPI Bhubaneswar 
 
  The Ianauguration of Fablab in STPI Elite Building ,Gothapatna was done on 18/03/2019.The Inauguration 
- [.....continued](deepak_repo/aboutme.md)
+ [.....continued](deepak_repo/inaug.md)
