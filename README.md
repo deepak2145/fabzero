@@ -26,12 +26,27 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
  # Training Started
 
- ## Day 1                   
+ ## Day 1 Session 1                  
  On Day 1 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
 
  ![deepak_repo](img/fablabatbhubaneswar1.jpeg)
 
  ![deepak_repo](img/fablabatbhubaneswar.jpeg)
+
+The machines installed at Fablab Bhubaneswar are
+1)Roland Vinyl Cutter
+2)Sindoh 3d Printer
+3)Epilog Laser Cutter
+4)Monofab Miller
+5)Shopbot CNC Miller
+6)Stratasys Polyjet 3 D Printer
+7)SLA 3d Printer
+
+## Day 1 Session 2
+We studied about about the Roland Vinyl cutter. Here is the Roland Vinyle Cutter How it looks
+![deepak_repo](img/vinylecutter.jpg)
+
+
 
 
 
