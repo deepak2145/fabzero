@@ -1,5 +1,8 @@
 # Vinyle Cutter
-## Vinyl Cutter Safety
+![deepak_repo](img/vinylcutter.jpeg)
+
+# Vinyl Cutter Safety
+
 ## Dos
 1) You SHALL wear closed-toe shoes at all times.
 2) You SHALL clean up your space after every job session, and leave 10-15 minutes for cleanup prior to shop closure.
@@ -15,7 +18,7 @@
 5) You SHALL NOT wear ties, belts, or leave hair down while cutting arm is in operation.
 
 
-# Operating Procedure
+## Operating Procedure
 
 1)Hold the blade carefully and Place the blade in the blade holder so that the The Tip of the blade should be at optimum position in the blade holder.Place lace the blade holder in the blade holding assembly by tightening the blade holding Knob.Do not tighten the knob with great force.Tighten it gently.
 
