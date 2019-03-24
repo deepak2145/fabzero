@@ -14,6 +14,7 @@
 4) If you have to touch any parts other than the bed, please do so after the bed and nozzle temperature have been lowered to room temperature
 
 ## Operating Procedure
+
 1) Place the machine in the dust free room and away from direct sunlight.
 2) Power the machine and load the filament.Manually insert the filment cartridge in the machine.Then press cartridge in the touch screen and then press load and the  message is displayed and then press ok after confirmation.Now the filament is heated and reaches to the nozzle and heated upto the specified temperature and the filament is inserted in the heated nozzle.When this is done ok then message is displayed and screen return back to the home screen.
 3)Now the machine can be directly connected to the wifi network after clicking settings and select the wifi option and insert the ip address details and click ok.
