@@ -2,4 +2,5 @@
 Formed in 2009 to facilitate and support the growth of the international fab lab network as well as the development of regional capacity-building organizations. The Fab Foundation is a US non-profit 501(c) 3 organization that emerged from MIT’s Center for Bits & Atoms Fab Lab Program. Our mission is to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything, and thereby creating opportunities to improve lives and livelihoods around the world. Community organizations, educational institutions and non-profit concerns are our primary beneficiaries.
 
 The First Fab lab in India Vigyan Ashram  was the fab lab to be set up outside MIT. It was established in 2002 and received capital equipment by NSF-USA and IITK.
+
 ![deepak_repo](img/Vigyan-Ashram.jpg)
