@@ -18,7 +18,7 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
  [.....continued](./inaug.md)
 
  ## Day 1 Session 2
- The Training session 2 was started after lunchbreak in the training hall on 4th floor.The training was to be imparted by Mr. Sheebu from Kerela and Mr. Francis from Spain Barcelona.
+ The Training session 2 was started after lunchbreak in the training hall on 4th floor.The training was to be imparted by Mr. Sibu Saman from Kerela and Mr. Mr.Francisco Sanchez from Spain Barcelona.
 
  ![deepak_repo](img/sheebu.jpeg)
 
