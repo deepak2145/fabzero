@@ -43,9 +43,8 @@ The machines installed at Fablab Bhubaneswar are
 7)SLA 3d Printer
 
 ## Day 1 Session 2
-We studied about about the Roland Vinyl cutter. Here is the Roland Vinyle Cutter How it looks
-
-![deepak_repo](img/vinylecutter.jpeg)
+We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine that allows users to cut materials such as vinyl, reflective vinyl sheet.More about
+![Vinyl_cutter](./vinylcutter.md)
 
 
 
