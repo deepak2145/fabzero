@@ -16,7 +16,7 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
  [.....continued](./inaug.md)
 
  # Training (18/03/2019 to 05/04/2019) Place STPI ELITE  Bhubaneswar,Odisha
- The Training session was started on 10:00 AM on 18/03/2019.The training is to be imparted by Mr. Sheebu from Kerela and Mr. Francis from Spain Barcelona.
+ The Training session was started on 10:00 AM on 18/03/2019 in the training hall on 4th floor.The training was to be imparted by Mr. Sheebu from Kerela and Mr. Francis from Spain Barcelona.
 
  ![deepak_repo](img/sheebu.jpeg)
 
@@ -27,7 +27,12 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
  # Training Started
 
  ## Day 1                   
- On Day 1
+ On Day 1 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
+ ![deepak_repo](img/Fablab At Bhubaneswar 1.jpeg)
+
+ ![deepak_repo](img/Fablab At Bhubaneswar.jpeg)
+
+
 
 
 
