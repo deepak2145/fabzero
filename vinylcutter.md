@@ -30,4 +30,4 @@
 6) Now create the .camm file of the .png image by opening the fabmodules.org and select input format image.png and select the png file.Now select the output format to roland vinyl.camm file and set force to 80 gf and velocity to 20 cm/sec and select process to cut venyl. and click calculate and save.
 For simple process we can use cut studio.
 
-7)After processing the cut image through vinyl cutter use the tranfer tape to paste the cut image to the srface.
+7)After processing the cut image through vinyl cutter use the transfer tape to paste the cut image to the srface.
