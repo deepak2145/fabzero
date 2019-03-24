@@ -1,5 +1,7 @@
 # Vinyle Cutter
 
+Roland Vinyl Cutter is used to cute the vinyle sheet in the selected design or fonts.
+
 ![deepak_repo](img/vinylecutter.jpeg)
 
 # Vinyl Cutter Safety
