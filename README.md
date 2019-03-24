@@ -4,3 +4,7 @@ Formed in 2009 to facilitate and support the growth of the international fab lab
 The First Fab lab in India Vigyan located in village Pabal approx 70 kms from Pune   was the lab to be set up outside MIT. It was established in 2002 and received capital equipment by NSF-USA and IITK.
 
 ![deepak_repo](img/Vigyan-Ashram.jpg)
+
+# About Me
+I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telecommunication from Government Engineering College,Rewa Madhya Pradesh.
+![deepak_repo](./aboutme.md)
