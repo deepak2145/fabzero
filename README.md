@@ -29,7 +29,7 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
  2) Also downloaded and installed the visual Studio code.Now click on the extensions and serch for the codespell check and install it.
 
- 3) Now Download git for windows ans set the user email and user name .
+ 3) Now Download git for windows and also downloaded git bash set the user email and user name .
 
  4) Now open github.com and clone and copy the url of your repository and now open the visual studio code and press control+p and type>git:clone and select git:clone and press enter and then paste the copied url and give the folder location to save the created repository in github.com
  5) Now edit the readme.md file and write it as instructed by the trainers.
