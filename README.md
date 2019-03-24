@@ -12,6 +12,8 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
 # Inauguration of Fablab In STPI Bhubaneswar 
 
+## Day 1 18/03/2019
+
  The Ianauguration of Fablab in STPI Elite Building ,Gothapatna was done on 18/03/2019.The Inauguration of the Fablab was done by Dr.Omkar Rai, (DG STPI) through VC from Delhi and here Sh Manas Panda Director, STPI Bhubaneswar was 
  [.....continued](./inaug.md)
 
@@ -24,10 +26,12 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
  Both are good personality and they are good instructor and teacher.
 
- # Training Started
+ 
 
- ## Day 1 Session 1                  
- On Day 1 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
+ 
+
+ ## Day 2 Session 1      19/03/2019            
+ On Day 2 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
 
  ![deepak_repo](img/fablabatbhubaneswar1.jpeg)
 
@@ -42,9 +46,12 @@ The machines installed at Fablab Bhubaneswar are
 6)Stratasys Polyjet 3 D Printer
 7)SLA 3d Printer
 
-## Day 1 Session 2
+## Day 2 Session 2
 We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine that allows users to cut materials such as vinyl, reflective vinyl sheet.Click here 
-[here](./vinylcutter.md) for Vinyl Cutter
+[here](./vinylcutter.md) for operating procedure of Roland Vinyl Cutter
+
+## Day 3    19/03/2019
+Today we studied about the Sindoh 3
 
 
 
