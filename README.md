@@ -44,7 +44,7 @@ The machines installed at Fablab Bhubaneswar are
 
 ## Day 1 Session 2
 We studied about about the Roland Vinyl cutter. Here is the Roland Vinyle Cutter How it looks
-![deepak_repo](img/vinylecutter.jpg)
+![deepak_repo](./vinylecutter.jpeg)
 
 
 
