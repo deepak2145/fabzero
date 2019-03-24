@@ -7,4 +7,10 @@ The First Fab lab in India Vigyan located in village Pabal approx 70 kms from Pu
 
 # About Me
 I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telecommunication from Government Engineering College,Rewa Madhya Pradesh.
-[....Continued](./aboutme.md)
+[....continued])
+
+
+# Inauguration of Fablab In STPI Bhubaneswar 
+
+ The Ianauguration of Fablab in STPI Elite Building ,Gothapatna was done on 18/03/2019.The Inauguration 
+ [.....continued](./inaug.md
