@@ -65,7 +65,7 @@ We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine th
 
 ## Day 3    19/03/2019
 Today we studied about the Sindoh 3DWOX DP200.Sindoh is known for its easy to use 3D printers. The DP200 has a built in camera which enables the user to check the print status remotely via laptop or phone.Click here 
-[here](./3dprinter.md) for operating procedure of Sindoh 3DWOX DP200 3d printer.
+[here](./3dprinter.md) for operating procedure of Sindoh 3DWOX DP200 3d printer. test
 
 
 
