@@ -38,4 +38,6 @@ For simple process we can use cut studio.
 
 7)After processing the cut image through vinyl cutter use the transfer tape to paste the cut image to the srface.
 
-8)In my case i cutted out the my Name DEEPAK through the blue color vinyle sheet
+8)In my case i cutted out the my Name DEEPAK through the blue color vinyle sheet.
+
+[Here is the image](img.deepakj.jpeg)
