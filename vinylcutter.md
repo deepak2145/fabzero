@@ -40,4 +40,6 @@ For simple process we can use cut studio.
 
 8)In my case i cutted out the my Name DEEPAK through the blue color vinyle sheet.
 
-[Here is the image](img.deepakj.jpeg)
+[Here is the image](img/deepakj.jpeg)
+
+[Home](https://github.com/deepak2145/deepak_repo)
