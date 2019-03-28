@@ -24,9 +24,7 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 :-------------------------------:|:-------------------------------:
 ![deepak_repo](img/francis.jpg)  |  ![deepak_repo](img/sheebu.jpeg)
 
- ![deepak_repo](img/sheebu.jpeg)
-
- ![deepak_repo](img/francis.jpg)
+ 
 
  Both are good personality and they are good instructor and teacher.
  1)Today we opened the account on the http://www.github.com and created the repository by name deepak_repo.
