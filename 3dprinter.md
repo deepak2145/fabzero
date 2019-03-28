@@ -3,7 +3,7 @@
 
 3D printing is any of various processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together , typically layer by layer. 
 
-![image](img/3dprinter.jpg?align="center")
+![image align="center"](img/3dprinter.jpg)
 
 # Sindoh 3DWOX Printer Safety
 
