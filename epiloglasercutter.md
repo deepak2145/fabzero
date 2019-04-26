@@ -40,6 +40,6 @@ Most inportant thing
 
 Interior Components of laser cutter are as shown
 
-![deepak_repo](img/interiorcompo.jpg)
+![fabzero](img/interiorcompo.jpg)
 
 
