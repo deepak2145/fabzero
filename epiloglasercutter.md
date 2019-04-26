@@ -52,11 +52,13 @@ Exterior Components of laser cutter are as shown
 
 ## How To use the machine
 
-Step 1: Turn on the Laser. The Laser must always be turned on to receive your job.
+Step 1: 
+Turn on the Laser. The Laser must always be turned on to receive your job.
         The switch is located on the front of the machine in the lower right hand 
         corner below the emergency stop button.
 
-        -The pointer will move and reset its position to home. The machine will
+        
+-The pointer will move and reset its position to home. The machine will
          go through an initializing process where green lights will run up and
          down on the control panel. When this is complete the operational
          keypad should read <JOB:> as shown in image below
