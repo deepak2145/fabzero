@@ -41,10 +41,11 @@ A few of the popular 3D PolyJet printing materials are mentioned below.
 
 **What are Photopolymers?**
 
-Photo means 'light' and polymers are formed by amalgamation of many molecules (monomers). A photopolymer is a type of polymer that changes its physical properties when it is exposed to light. Photopolymers are  very popular and popular build material used by 3D printers, especially the PolyJet printers. Typically, 3D PolyJet printers use liquid plastic resins (a kind of polymers) that harden when exposed to a light source like UV light, lamps, projectors, etc.
+Photo means 'light' and polymers are formed by amalgamation of many molecules (monomers). A photopolymer is a type of polymer that changes its physical properties when it is exposed to light. Photopolymers are  very popular and popular build material used by 3D printers, especially the PolyJet printers. Typically, 3D PolyJet printers use liquid plastic resins (a kind of polymers) that harden when exposed to a light source like UV light, lamps, projectors, etc.When the object in created in the stratasys 3d printer it is need to be cleaned .For this first we have to wear gloves and it is to be cleaned with the high pressure water jet cleaner for removing the extra wax from the printed 3d object as shown below
 
-**Applications of PolyJet Printers**
+![fabzero](img/cleaner.jpg)
 
-PolyJet 3D printers find use in many sectors that require achieving complex shapes, intricate details and delicate features. Automobile, architecture, industrial and educational sectors lead in the use of PolyJet printers in India. However, a key application of PolyJet 3D printers is in the healthcare sector. PolyJet printers enable surgeons to produce exact replicas of the organs that need replacement. Prosthetic limbs and joint replacement are a few examples where 3D printing is used actively. Another important sector that leverages the benefits of 3D printing is dentistry. Using 3D printers, dental labs can produce accurate crowns, bridges and a range of orthodontic appliances. While the use of 3D printers for dental applications is common in the developed nations, it is just catching up in India. So, the potential for this type of service is huge.
 
-With the expansion of exciting new built material that includes the likes of chocolate (yes, chocolate!), the market for PolyJet and other 3D printers is all set to expand. 
+
+
+

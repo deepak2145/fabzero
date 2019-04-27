@@ -65,7 +65,7 @@ The machines installed at Fablab Bhubaneswar are
 
 *9)Scroll Saw*
 
-*10)Cleaner*
+
 
 
 ## Roland Vinyl Cutter
@@ -95,9 +95,12 @@ PolyJet 3D printers deliver high quality, multi-material printing and that too i
 ## SLA (Stereolithography) 3d Printer ##
 Today we learnt about the SLP 3d Printer.Stereolithography (SLA or SL; also known as stereolithography apparatus, optical fabrication, photo-solidification, or resin printing) is a form of 3D printing technology used for creating models, prototypes, patterns, and production parts in a layer by layer fashion using photochemical processes by which light causes chemical monomers to link together to form polymers. Those polymers then make up the body of a three-dimensional solid.Stereolithography can be used to create prototypes for products in development, medical models, and computer hardware, as well as in many other applications. While stereolithography is fast and can produce almost any design, it can be expensive. Click here [here](./sla.md) for operating procedure of Stereolithography 3d Printer.
 
-
 ## Band Saw ##
 A bandsaw is a power saw with a long, sharp blade consisting of a continuous band of toothed metal stretched between two or more wheels to cut material. They are used principally in woodworking, metalworking, and lumbering, but may cut a variety of materials. Advantages include uniform cutting action as a result of an evenly distributed tooth load, and the ability to cut irregular or curved shapes like a jigsaw.[1] The minimum radius of a curve is determined by the width of the band and its kerf. Most bandsaws have two wheels rotating in the same plane, one of which is powered, although some may have three or four to distribute the load. The blade itself can come in a variety of sizes and tooth pitches (teeth per inch, or TPI), which enables the machine to be highly versatile and able to cut a wide variety of materials including wood, metal and plastic.Click here [here](./band.md) for operating procedure of Band Saw.
+
+## Scroll Saw ##
+A scroll saw is a small electric or pedal-operated saw used to cut intricate curves in wood, metal, or other materials. The fineness of its blade allows it to cut more delicately than a power jigsaw, and more easily than a hand coping saw or fretsaw. Like those tools, it is capable of creating curves with edges, by pivoting its table.The scroll saw's name derives from its traditional use in making scrollwork, sculptural ornaments which prominently featured scroll-head designs.While somewhat similar to a band saw, a scroll saw uses a reciprocating blade rather than a continuous loop. Like a hand coping saw, the scroll saw's blade can be removed and placed through a pre-drilled starting hole, allowing interior cutouts to be made without an entry slot. Also, the fineness in both width and tooth count of a scroll's blade permits significantly more intricate curves than even the narrowest gauge band-saw blade. Click here [here](./scroll.md) for operating procedure of Scroll Saw.
+
 
 
 
