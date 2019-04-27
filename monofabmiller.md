@@ -1,9 +1,15 @@
+## This is Monofab SRM-20 Miller
+
+![fabzero](img/srm20.jpg)
+
 **Safety Precautions**
 
 The Monofab SRM-20 CNc Desktop Miller is a highly powerful CNC, it can occasionally result in a lot of flying debris in the form of dust or small board pieces. Always wear safety goggles while operating the machine. And also never touch the drill bit or place your hands near the board while the spindle is active.
 
 1)The milling bit might break off during operation, it’s always recommended to wear eye protection while.
+
 2)Always vacuum the surface after cutting before operation and upon finishing.
+
 3)The Moving cutting head can jam your hand between it and the enclosure, keep your hands away from the cutting area, when under operation.
 
 
