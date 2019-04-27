@@ -89,8 +89,12 @@ Today we learnt about the Shopbot CNC Miller .ShopBot miller, move a cutter arou
 [here](./shopbot.md) for operating procedure of Shopbot CNC Miller.
 
 ## Stratasys Polyjet 3d Printer
-Today we learnt about the Stratasys Polyjet #D printer.This printer is used for high precision 3d prototype printing.In This liquid based polymer is used for printing.Polyjet (short for ‘photopolymer jetting’) 3D printers are a subclass of the Material Extruding / Jetting 3D Printers category. Material jetting is the name for any 3D printing technology that jets a liquid (the build material) from a print head, which is then solidified by UV light. In most material jetting processes, the build material is a photopolymer.
+Today we learnt about the Stratasys Polyjet 3D printer.This printer is used for high precision 3d prototype printing.In This liquid based polymer is used for printing.Polyjet (short for ‘photopolymer jetting’) 3D printers are a subclass of the Material Extruding / Jetting 3D Printers category. Material jetting is the name for any 3D printing technology that jets a liquid (the build material) from a print head, which is then solidified by UV light. In most material jetting processes, the build material is a photopolymer.
 PolyJet 3D printers deliver high quality, multi-material printing and that too in multi-colour format.Click here [here](./stratasys.md) for operating procedure of Stratasys Polyjet 3d Printer.
+
+## SLA (Stereolithography) 3d Printer ##
+Today we learnt about the SLP 3d Printer.Stereolithography (SLA or SL; also known as stereolithography apparatus, optical fabrication, photo-solidification, or resin printing) is a form of 3D printing technology used for creating models, prototypes, patterns, and production parts in a layer by layer fashion using photochemical processes by which light causes chemical monomers to link together to form polymers. Those polymers then make up the body of a three-dimensional solid.Stereolithography can be used to create prototypes for products in development, medical models, and computer hardware, as well as in many other applications. While stereolithography is fast and can produce almost any design, it can be expensive. Click here [here](./sla.md) for operating procedure of Stereolithography 3d Printer.
+
 
 
 
