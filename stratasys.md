@@ -19,11 +19,11 @@ iii. Since the build platform is typically lowered after an iteration of layer, 
 
 iv. There is a wide choice of raw material that is available for printing. At present, there are more than 100+ types of build material available for 3D PolyJet printers, and their number is increasing.
 
-**Versatility of PolyJet 3D Printers**
+**PolyJet 3D Printers**
 
 In addition to creating liquid pools of photopolymer resins cured from the top or bottom of the pool by using external light sources, there are different techniques that can be used for PolyJet printing. Objet now Stratasys, for example, uses inkjet applicators to apply the resins. A low level UV light then immediately cures the sprayed layer into a solid state. This technique allows PolyJet printers to mix a flexible material and a rigid one to create models with variable strength and flexibility. You can hence use PolyJet printers to print complex objects such as a prosthetic. A prosthetic is a flexible joint sandwiched between rigid, hard-plastic body components, and it can be printed in one go using PolyJet technology. You can even mix and match’ a variety of build material – part rigid and part opaque as an example - to create exact replica of real life objects that use such material. Educational aids, toys for kids, body and dental parts are only a few examples where the versatility of PolyJet printers can be utilized.
 
-**PolyJet Printers – Build Material**
+**Filament Material**
 
 The range of raw materials available today for 3D PolyJet printers is simply amazing. Apart from the standard photopolymers, the build material now includes clear, rubberlike and biocompatible photopolymers, and tough high-performance thermoplastics.
 A few of the popular 3D PolyJet printing materials are mentioned below.
@@ -39,7 +39,7 @@ A few of the popular 3D PolyJet printing materials are mentioned below.
     Dental Material 
 
 
-**What are Photopolymers?**
+
 
 Photo means 'light' and polymers are formed by amalgamation of many molecules (monomers). A photopolymer is a type of polymer that changes its physical properties when it is exposed to light. Photopolymers are  very popular and popular build material used by 3D printers, especially the PolyJet printers. Typically, 3D PolyJet printers use liquid plastic resins (a kind of polymers) that harden when exposed to a light source like UV light, lamps, projectors, etc.When the object in created in the stratasys 3d printer it is need to be cleaned .For this first we have to wear gloves and it is to be cleaned with the high pressure water jet cleaner for removing the extra wax from the printed 3d object as shown below
 
