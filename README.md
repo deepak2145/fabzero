@@ -47,7 +47,7 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
 The machines installed at Fablab Bhubaneswar are
 
-1)Roland Vinyl Cutter
+*1)Roland Vinyl Cutter*
 
 2)Sindoh 3d Printer
 
