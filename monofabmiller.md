@@ -73,9 +73,9 @@ This is what it should look like, once it has completed the process:
 
 ![fabzero](img/13.jpg) 
 
-But wait! Don’t remove the milled board just yet. Vacuum the surface and then closely observe the circuit and note the surface for any incomplete cuts. Incomplete traces should look like the shiny grooves on the above image. If so redo the entire circuit with a little more cut depth.
+Now Vacuum the surface and then closely observe the circuit and note the surface for any incomplete cuts. Incomplete traces should look like the shiny grooves on the above image. If so redo the entire circuit with a little more cut depth.
 
-Once you are happy with the circuit, replace the bit with the 1/32 bit and repeat the same process with the border for cutting the board out. Be sure to use the ‘PCB outline’ option in the process dropdown. You have to use another .png file that looks like this to do the border cutting:
+Now replace the bit with the 1/32 bit and repeat the same process with the border for cutting the board out. Be sure to use the ‘PCB outline’ option in the process dropdown. You have to use another .png file that looks like this to do the border cutting:
 
 ![fabzero](img/cut.jpg)
 
