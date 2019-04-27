@@ -39,14 +39,16 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
 
  
- ## Day 2 Session 1      19/03/2019            
+ ## Day 2 Session 1      19/03/2019
+
  On Day 2 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
 
  ![deepak_repo](img/fablabatbhubaneswar1.jpeg)
 
  ![deepak_repo](img/fablabatbhubaneswar.jpeg)
+ 
 
-The machines installed at Fablab Bhubaneswar are
+**The machines installed at Fablab Bhubaneswar are:-**
 
 *1)Roland Vinyl Cutter*
 
