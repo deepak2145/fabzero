@@ -49,23 +49,23 @@ The machines installed at Fablab Bhubaneswar are
 
 *1)Roland Vinyl Cutter*
 
-2)Sindoh 3d Printer
+*2)Sindoh 3d Printer*
 
-3)Epilog Laser Cutter
+*3)Epilog Laser Cutter*
 
-4)Monofab Miller
+*4)Monofab Miller*
 
-5)Shopbot CNC Miller
+*5)Shopbot CNC Miller*
 
-6)Stratasys Polyjet 3 D Printer
+*6)Stratasys Polyjet 3 D Printer*
 
-7)SLA 3d Printer
+*7)SLA 3d Printer*
 
-8)Band Saw
+*8)Band Saw*
 
-9)Scroll Saw
+*9)Scroll Saw*
 
-10)Cleaner
+*10)Cleaner*
 
 
 ## Roland Vinyl Cutter
