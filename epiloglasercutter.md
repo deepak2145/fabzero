@@ -1,6 +1,12 @@
 ## This is Epilog Laser Cutter
 
+Outer View
+
 ![fabzero](img/epiloglaser.jpg)
+
+Inner View
+
+![fabzero](img/laserinner.jpg)
 
 
 **Before Starting please check the following :-**
