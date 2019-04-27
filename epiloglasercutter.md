@@ -1,4 +1,4 @@
-Before Starting please check the following :-
+**Before Starting please check the following :-**
 
 Personal Safety Check:
 Closed Toed Shoes and Eye Protection because you are in the Wood Shop!
