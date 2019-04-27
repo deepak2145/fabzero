@@ -84,6 +84,10 @@ Today we learnt about the Epilog Laser cutter.Epilog's CO2 laser engraver machin
 Today we learnt about the Monofab SRM-20 desktop miller.Desktop miller is used for the designing the circuit acording to our requirement and solder the components over the designed PCB and we tried to do some basic electronics production, specifically creation of a PCB by milling, then adding the components and finally burning the code to it. .Click here 
 [here](./monofabmiller.md) for operating procedure of Monofab SRM-20 desktop miller.
 
+## Shopbot CNC Miller
+Today we learnt about the Shopbot CNC Miller .ShopBot miller, move a cutter around a big table (X and Y axes) and move it up and down as well (Z axis) allowing it to make 3D movements and cut all sorts of shapes. The cutter looks like a drill bit and is spun by a motor called a router or spindle. Unlike a drill bit, a router bit is designed to cut from the sides as well as the tip. By precisely moving the cutter through material, a ShopBot CNC tool can create virtually any pattern or shape and will do it in materials such as wood, plastic, foam, aluminum and many composites.. .Click here 
+[here](./shopbot.md) for operating procedure of Shopbot CNC Miller.
+
 
 
 
