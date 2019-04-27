@@ -1,4 +1,5 @@
 # Fablab Foundation
+
 Formed in 2009 to facilitate and support the growth of the international fab lab network as well as the development of regional capacity-building organizations. The Fab Foundation is a US non-profit 501(c) 3 organization that emerged from MIT’s Center for Bits & Atoms Fab Lab Program. Our mission is to provide access to the tools, the knowledge and the financial means to educate, innovate and invent using technology and digital fabrication to allow anyone to make (almost) anything, and thereby creating opportunities to improve lives and livelihoods around the world. Community organizations, educational institutions and non-profit concerns are our primary beneficiaries.
 
 The First Fab lab in India Vigyan located in village Pabal approx 70 kms from Pune   was the lab to be set up outside MIT. It was established in 2002 and received capital equipment by NSF-USA and IITK.
@@ -65,6 +66,8 @@ The machines installed at Fablab Bhubaneswar are
 
 *9)Scroll Saw*
 
+*10)Final Project*
+
 
 
 
@@ -114,7 +117,14 @@ A scroll saw is a small electric or pedal-operated saw used to cut intricate cur
 
 **Click here [here](./scroll.md) for operating procedure of Scroll Saw.**
 
+## 9) Final Project ##
+In project we had a team of 3 members Sh.Samrat Sir (STPI Patna-TO),Mr.Chintu(STPI Bhubaneswar-PA) and Myself.We together made PIR Motion sensor.
+
+**Click here [here](./project.md) for making of Project.**
+
 [Home](https://github.com/deepak2145/fabzero)
+
+**Click here [here](./memories.md) for making of Project.**
 
 
 
