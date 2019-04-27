@@ -124,8 +124,6 @@ In project we had a team of 3 members Sh.Samrat Sir (STPI Patna-TO),Mr.Chintu(ST
 
 [Home](https://github.com/deepak2145/fabzero)
 
-**Click here [here](./memories.md) for making of Project.**
-
 
 
 
