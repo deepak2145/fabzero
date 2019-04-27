@@ -69,8 +69,9 @@ The machines installed at Fablab Bhubaneswar are
 
 
 ## Roland Vinyl Cutter
-We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine that allows users to cut materials such as vinyl, reflective vinyl sheet.Click here 
-[here](./vinylcutter.md) for operating procedure of Roland Vinyl Cutter
+We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine that allows users to cut materials such as vinyl, reflective vinyl sheet.
+
+**Click here [here](./vinylcutter.md) for operating procedure of Roland Vinyl Cutter**
 
 ## Sindoh 3DWOX 3D Printer
 Today we studied about the Sindoh 3DWOX DP200.Sindoh is known for its easy to use 3D printers. The DP200 has a built in camera which enables the user to check the print status remotely via laptop or phone.Click here 
