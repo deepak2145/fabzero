@@ -132,7 +132,7 @@ Step 6: Focusing Your Laser
 6) Remove the manual focus tool and place it back in its home position. 
 7) We only have 1 focusing tool. DO NOT LOOSE THIS TOOL!
 
-*** Focus raises and lowers the Laser Bed and Jog moves the laser lenses along the x & y coordinate system. ***
+***Focus raises and lowers the Laser Bed and Jog moves the laser lenses along the x & y coordinate system.***
 
 Step 7: Turn on the Air Filtration System and Air Assist Pump
 1) Turn on the air assist pump. This pump cools the laser when it is vector cutting. This pump must ALWAYS BE ON WHEN VECTORCUTTING. It is on the floor directly behind the laser.
