@@ -26,22 +26,8 @@ In addition to creating liquid pools of photopolymer resins cured from the top o
 **Filament Material**
 
 The range of raw materials available today for 3D PolyJet printers is simply amazing. Apart from the standard photopolymers, the build material now includes clear, rubberlike and biocompatible photopolymers, and tough high-performance thermoplastics.
-A few of the popular 3D PolyJet printing materials are mentioned below.
 
-    Digital Materials
-    Digital ABS Materials
-    High Temperature
-    Transparent
-    Rigid Opaque
-    Simulated Polypropylene
-    Rubber-like
-    Bio-compatible
-    Dental Material 
-
-
-
-
-Photo means 'light' and polymers are formed by amalgamation of many molecules (monomers). A photopolymer is a type of polymer that changes its physical properties when it is exposed to light. Photopolymers are  very popular and popular build material used by 3D printers, especially the PolyJet printers. Typically, 3D PolyJet printers use liquid plastic resins (a kind of polymers) that harden when exposed to a light source like UV light, lamps, projectors, etc.When the object in created in the stratasys 3d printer it is need to be cleaned .For this first we have to wear gloves and it is to be cleaned with the high pressure water jet cleaner for removing the extra wax from the printed 3d object as shown below
+3D PolyJet printers use liquid plastic resins (a kind of polymers) that harden when exposed to a light source like UV light, lamps, projectors, etc.When the object in created in the stratasys 3d printer it is need to be cleaned .For this first we have to wear gloves and it is to be cleaned with the high pressure water jet cleaner for removing the extra wax from the printed 3d object as shown below
 
 ![fabzero](img/cleaner.jpg)
 

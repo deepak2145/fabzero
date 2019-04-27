@@ -27,7 +27,7 @@ Here is how the SLA fabrication process works:
 
 4) After printing, the part is in a green, no-fully-cured state and requires further post processing under UV light if very high mechanical and thermal properties are required.
 
-The liquid resin is solidified through a process called photopolymerization: during solidification, the monomer carbon chains that compose the liquid resin are activated by the light of the UV laser and become solid, creating strong unbreakable bonds between each other. The photopolymerization process is irreversible and there is no way to convert the SLA parts back to their liquid form: when heated, they will burn instead of melting. This is because the materials that are produced with SLA are made of thermoset polymers, as opposed to the thermoplastics that FDM uses.
+Photo means 'light' and polymers are formed by amalgamation of many molecules (monomers). A photopolymer is a type of polymer that changes its physical properties when it is exposed to light. Photopolymers are  very popular and popular build material used by 3D printers. The liquid resin is solidified through a process called photopolymerization: during solidification, the monomer carbon chains that compose the liquid resin are activated by the light of the UV laser and become solid, creating strong unbreakable bonds between each other. The photopolymerization process is irreversible and there is no way to convert the SLA parts back to their liquid form: when heated, they will burn instead of melting. This is because the materials that are produced with SLA are made of thermoset polymers, as opposed to the thermoplastics that FDM uses.
 
 
 **Printer Parameters**
