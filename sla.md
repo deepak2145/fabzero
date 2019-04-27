@@ -62,7 +62,7 @@ After cleaning the 3d object is cured in the ultravoilet light in the instrument
 
 
 
-I printed the 3D Tajmahal prototype with this printer which is shown below:-
+**I printed the 3D Tajmahal prototype with this printer which is shown below:-**
 
 ![fabzero](img/taj.jpg)
 
