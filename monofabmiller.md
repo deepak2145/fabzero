@@ -79,7 +79,7 @@ Now replace the bit with the 1/32 bit and repeat the same process with the borde
 
 ![fabzero](img/cut.jpg)
 
-The final PCB will looked like this after soldering the components.
+The final PCB looked like this after soldering the components.
 
 ![fabzero](img/final.jpg)
 
