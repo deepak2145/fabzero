@@ -80,6 +80,10 @@ Today we studied about the Sindoh 3DWOX DP200.Sindoh is known for its easy to us
 Today we learnt about the Epilog Laser cutter.Epilog's CO2 laser engraver machines provide a wide range of possibilities. The versatility and reliability of the laser machines is unparalleled in the ability to engrave and customize products made with wood, glass, stone, plastic, fabric, coated metal and much more! The ease of use, high precision and fast speed gives anyone from hobbyist to entrepreneur the ability to produce their idea and product. Designed to be as simple to use as a paper printer, you can create a design in a graphic software program and print it directly to the laser.Click here 
 [here](./epiloglasercutter.md) for operating procedure of Epilog Laser Cutter.
 
+## Monofab Miller
+Today we learnt about the Monofab SRM-20 desktop miller.Desktop miller is used for the designing the circuit acording to our requirement and solder the components over the designed PCB and we tried to do some basic electronics production, specifically creation of a PCB by milling, then adding the components and finally burning the code to it. .Click here 
+[here](./monofabmiller.md) for operating procedure of Monofab SRM-20 desktop miller.
+
 
 
 
