@@ -46,7 +46,7 @@ It How looks when the 3d printing is in progress.the object is created upside do
 
 ![fabzero](img/3dpinprogress.jpg)
 
-**Post Orocessing**
+**Post Processing**
 
 ## Cleaning
 
