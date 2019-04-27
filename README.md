@@ -88,6 +88,11 @@ Today we learnt about the Monofab SRM-20 desktop miller.Desktop miller is used f
 Today we learnt about the Shopbot CNC Miller .ShopBot miller, move a cutter around a big table (X and Y axes) and move it up and down as well (Z axis) allowing it to make 3D movements and cut all sorts of shapes. The cutter looks like a drill bit and is spun by a motor called a router or spindle. Unlike a drill bit, a router bit is designed to cut from the sides as well as the tip. By precisely moving the cutter through material, a ShopBot CNC tool can create virtually any pattern or shape and will do it in materials such as wood, plastic, foam, aluminum and many composites.. .Click here 
 [here](./shopbot.md) for operating procedure of Shopbot CNC Miller.
 
+## Stratasys Polyjet 3d Printer
+Today we learnt about the Stratasys Polyjet #D printer.This printer is used for high precision 3d prototype printing.In This liquid based polymer is used for printing.Polyjet (short for ‘photopolymer jetting’) 3D printers are a subclass of the Material Extruding / Jetting 3D Printers category. Material jetting is the name for any 3D printing technology that jets a liquid (the build material) from a print head, which is then solidified by UV light. In most material jetting processes, the build material is a photopolymer.
+PolyJet 3D printers deliver high quality, multi-material printing and that too in multi-colour format.Click here [here](./stratasys.md) for operating procedure of Stratasys Polyjet 3d Printer.
+
+
 
 
 
