@@ -100,7 +100,7 @@ PolyJet 3D printers deliver high quality, multi-material printing and that too i
 **Click here [here](./stratasys.md) for operating procedure of Stratasys Polyjet 3d Printer.**
 
 ## 7) SLA (Stereolithography) 3d Printer ##
-Today we learnt about the SLP 3d Printer.Stereolithography (SLA or SL; also known as stereolithography apparatus, optical fabrication, photo-solidification, or resin printing) is a form of 3D printing technology used for creating models, prototypes, patterns, and production parts in a layer by layer fashion using photochemical processes by which light causes chemical monomers to link together to form polymers. Those polymers then make up the body of a three-dimensional solid.Stereolithography can be used to create prototypes for products in development, medical models, and computer hardware, as well as in many other applications. While stereolithography is fast and can produce almost any design, it can be expensive. 
+Today we learnt about the SLA 3d Printer.Stereolithography (SLA or SL; also known as stereolithography apparatus, optical fabrication, photo-solidification, or resin printing) is a form of 3D printing technology used for creating models, prototypes, patterns, and production parts in a layer by layer fashion using photochemical processes by which light causes chemical monomers to link together to form polymers. Those polymers then make up the body of a three-dimensional solid.Stereolithography can be used to create prototypes for products in development, medical models, and computer hardware, as well as in many other applications. While stereolithography is fast and can produce almost any design, it can be expensive. 
 
 **Click here [here](./sla.md) for operating procedure of Stereolithography 3d Printer.**
 
