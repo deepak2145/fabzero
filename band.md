@@ -43,3 +43,6 @@ The bandsaw is useful for cutting stock to size and roughing out shapes. It cont
 4) Never leave the machine running unattended. 
 
 5) Do not force a wide blade on a cut of small radius. Use relief cuts when cutting sharp curves.
+
+
+[Home](https://github.com/deepak2145/fabzero)

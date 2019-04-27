@@ -56,3 +56,5 @@
 
 1.	Switch off the saw and reset all guards to a fully closed position.
 2.	Leave the machine in a safe, clean and tidy state.
+
+[Home](https://github.com/deepak2145/fabzero)

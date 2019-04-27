@@ -159,5 +159,8 @@ Step 8: Printing your Project
 6) When your print is finished. Wait a few seconds for the smoke to clear from the laser cutter. Jog the print head away from the piece so you do not accidentally hit it and open the lid and retrieve your project.
 
 
+[Home](https://github.com/deepak2145/fabzero)
+
+
 
     

@@ -1,5 +1,5 @@
 
-# This is an 3d Printer<h1>
+# This is an Sindoh 3d Printer<h1>
 
 3D printing is any of various processes in which material is joined or solidified under computer control to create a three-dimensional object, with material being added together , typically layer by layer. 
 
@@ -28,6 +28,8 @@
 6)Now download and install the 3DWOX software and now select the 3d model and adjust the size according to the machine using the software.In my case I printed the 3D model of the Youtube logo which is displayed below...
 
 ![deepak_repo](img/youtube.jpeg)
+
+[Home](https://github.com/deepak2145/fabzero)
 
 
 
