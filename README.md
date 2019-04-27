@@ -37,18 +37,15 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
  4) Now open github.com and clone and copy the url of your repository and now open the visual studio code and press control+p and type>git:clone and select git:clone and press enter and then paste the copied url and give the folder location to save the created repository in github.com
  5) Now edit the readme.md file and write it as instructed by the trainers.
 
-
- 
- ## Day 2 Session 1      19/03/2019
+## Day 2 Session 1      19/03/2019
 
  On Day 2 we were all had the brief overview about all the machines in the fab lab.The fab lab at STPI Bhubaneswar Elite building looked like this...
 
  ![deepak_repo](img/fablabatbhubaneswar1.jpeg)
 
  ![deepak_repo](img/fablabatbhubaneswar.jpeg)
- 
 
-**The machines installed at Fablab Bhubaneswar are:-**
+fd**The machines installed at Fablab Bhubaneswar are:-**
 
 *1)Roland Vinyl Cutter*
 
