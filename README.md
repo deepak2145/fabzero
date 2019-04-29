@@ -117,7 +117,7 @@ A scroll saw is a small electric or pedal-operated saw used to cut intricate cur
 **Click [here](./scroll.md) for operating procedure of Scroll Saw.**
 
 ## 10) Final Project ##
-In project we had a team of 3 members Sh.Samrat Sir (STPI Patna-TO),Mr.Chintu(STPI Bhubaneswar-PA) and Myself.We together made PIR Motion sensor.
+In project we had a team of 3 members Sh.Samrat Chakravarty Sir (STPI Patna),Mr.A Chintu Dora(STPI Bhubaneswar) and Myself Deepak K Chaudhry (STPI Bhubaneswar).We together made PIR Motion sensor.
 
 **Click [here](./project.md) for making of Project.**
 
