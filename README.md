@@ -75,7 +75,7 @@ We studied about about the Roland Vinyl cutter. The Vinyl Cutter is a machine th
 
 **Click [here](./vinylcutter.md) for operating procedure of Roland Vinyl Cutter**
 
-## 2) Sindoh 3DWOX 3D Printer
+## 2) Sindoh 3DWOX DP200 3D Printer
 Today we studied about the Sindoh 3DWOX DP200.Sindoh is known for its easy to use 3D printers. The DP200 has a built in camera which enables the user to check the print status remotely via laptop or phone.
 
 **Click [here](./3dprinter.md) for operating procedure of Sindoh 3DWOX DP200 3d printer.**
@@ -85,10 +85,10 @@ Today we learnt about the Epilog Laser cutter.Epilog's CO2 laser engraver machin
 
 **Click [here](./epiloglasercutter.md) for operating procedure of Epilog Laser Cutter.**
 
-## 4) Monofab Miller
+## 4) Monofab SRM-20 Desktop Miller
 Today we learnt about the Monofab SRM-20 desktop miller.Desktop miller is used for the designing the circuit acording to our requirement and solder the components over the designed PCB and we tried to do some basic electronics production, specifically creation of a PCB by milling, then adding the components and finally burning the code to it.
 
-**Click [here](./monofabmiller.md) for operating procedure of Monofab SRM-20 desktop miller.**
+**Click [here](./monofabmiller.md) for operating procedure of Monofab SRM-20 Desktop Miller.**
 
 ## 5) Shopbot CNC Miller
 Today we learnt about the Shopbot CNC Miller .ShopBot miller, move a cutter around a big table (X and Y axes) and move it up and down as well (Z axis) allowing it to make 3D movements and cut all sorts of shapes. The cutter looks like a drill bit and is spun by a motor called a router or spindle. Unlike a drill bit, a router bit is designed to cut from the sides as well as the tip. By precisely moving the cutter through material, a ShopBot CNC tool can create virtually any pattern or shape and will do it in materials such as wood, plastic, foam, aluminum and many composites.
@@ -104,7 +104,7 @@ PolyJet 3D printers deliver high quality, multi-material printing and that too i
 ## 7) SLA (Stereolithography) 3d Printer ##
 Today we learnt about the SLA 3d Printer.Stereolithography (SLA or SL; also known as stereolithography apparatus, optical fabrication, photo-solidification, or resin printing) is a form of 3D printing technology used for creating models, prototypes, patterns, and production parts in a layer by layer fashion using photochemical processes by which light causes chemical monomers to link together to form polymers. Those polymers then make up the body of a three-dimensional solid.Stereolithography can be used to create prototypes for products in development, medical models, and computer hardware, as well as in many other applications. While stereolithography is fast and can produce almost any design, it can be expensive. 
 
-**Click [here](./sla.md) for operating procedure of Stereolithography 3d Printer.**
+**Click [here](./sla.md) for operating procedure of SLA (Stereolithography) 3d Printer.**
 
 ## 8) Band Saw ##
 A bandsaw is a power saw with a long, sharp blade consisting of a continuous band of toothed metal stretched between two or more wheels to cut material. They are used principally in woodworking, metalworking, and lumbering, but may cut a variety of materials. Advantages include uniform cutting action as a result of an evenly distributed tooth load, and the ability to cut irregular or curved shapes like a jigsaw.[1] The minimum radius of a curve is determined by the width of the band and its kerf. Most bandsaws have two wheels rotating in the same plane, one of which is powered, although some may have three or four to distribute the load. The blade itself can come in a variety of sizes and tooth pitches (teeth per inch, or TPI), which enables the machine to be highly versatile and able to cut a wide variety of materials including wood, metal and plastic.
