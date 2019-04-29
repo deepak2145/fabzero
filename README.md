@@ -49,17 +49,17 @@ I am Deepak Chaudhry .I Studied Bachelor Of Engineering in Electronics and Telec
 
 *1)Roland Vinyl Cutter*
 
-*2)Sindoh 3d Printer*
+*2)Sindoh 3DWOX DP200 3D Printer*
 
 *3)Epilog Laser Cutter*
 
-*4)Monofab Miller*
+*4)Monofab SRM-20 Desktop Miller*
 
 *5)Shopbot CNC Miller*
 
 *6)Stratasys Polyjet 3 D Printer*
 
-*7)SLA 3d Printer*
+*7)SLA (Stereolithography) 3d Printer*
 
 *8)Band Saw*
 
